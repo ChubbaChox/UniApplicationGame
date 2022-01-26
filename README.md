@@ -44,4 +44,6 @@ All that remained code wise was the companions system and the separate enemy spa
 
 I still had to scale back on multiple ideas, I did want more than two separate enemy lists however I am not sure how I would do so without making my combat system script triple in its current size. I am also embarrassed to admit I had several avoidable set backs where my work would become corrupted. The first instance was early on and was from me miss saving and breaking the pathway, more recently I started my PC up and was faced with the dreaded blue screen. I was able to pull what I needed onto a external HDD but still lost some progress. This made me paranoid to the point where I would create a back up of my project before starting for the day, and another when I was halfway through the day. I also created prototype projects where I would make a copy of my current work, and test new ideas on it before implementing onto my current build.
 
-If you have not done so yet, the game can be played via a link on my UCAS submission. Please enjoy.
+If you have not done so yet, the game can be played via a link on my UCAS submission. I have also attached 2 images showing a bug from me exporting my game to be played via website. For some reason when played via HTML5 some of my buildings lose their texture and barriers allowing the player to escape parts of the map and makes buildings look a bit broken.
+
+Please enjoy.
