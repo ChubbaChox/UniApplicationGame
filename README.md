@@ -46,4 +46,6 @@ I still had to scale back on multiple ideas, I did want more than two separate e
 
 If you have not done so yet, the game can be played via a link on my UCAS submission. I have also attached 2 images showing a bug from me exporting my game to be played via website. For some reason when played via HTML5 some of my buildings lose their texture and barriers allowing the player to escape parts of the map and makes buildings look a bit broken.
 
+Next to the bar at the top, near where it says main, you will find a blue limk titled "UniApplicationGame". If you click on it you shall be taken to my scripts folders.
+
 Please enjoy.
